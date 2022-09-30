@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Saha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabto&label=Profile%20views&color=0e75b6&style=flat" alt="arnabto" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arnabs929" target="blank"><img src="https://img.shields.io/twitter/follow/arnabs929?logo=twitter&style=for-the-badge" alt="arnabs929" /></a> </p>

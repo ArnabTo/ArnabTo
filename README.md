@@ -1,18 +1,18 @@
 
-![LinkedIn Banner](./images/github-banner.png "GitHub Banner")]
+![LinkedIn Banner](./images/github-banner.png "GitHub Banner")
 
 
 ## Overview
-I am a Passionate MERN stack developer seeking to
-develope scalable web
-applications and contribute to the success
-of an innovative organization
-generate different varient of it
-
+<p>
+I am a Passionate MERN stack developer 
+</P>
 ## Current Stats
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
 </p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTo&theme=dark)
+
 
 
 # Technologies & Tools

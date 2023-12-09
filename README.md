@@ -13,27 +13,27 @@
 
 ## 🗂️ Recent Projects
 
-### Project Name 1
+### Student and Class Management System
 Description:
 Welcome to Skill Nest, a cutting-edge Student and Class Management System meticulously crafted with the powerful MERN stack. Designed to revolutionize the educational experience, Skill Nest seamlessly integrates user authentication, course creation, and an intuitive dashboard for a holistic
 
-Live Demo: [Project 1 Demo](skill-nest.netlify.app/)
+Live Demo: [Demo](skill-nest.netlify.app/)
 
-GitHub Repository: [Project 1 Repository](https://github.com/your-username/project-1)
+GitHub Repository: [Repository](https://github.com/ArnabTo/skill-nest-client)
 
-### Project Name 2
-Description: Another exciting project showcasing your skills and creativity.
+### Share Plate - Connecting Communities Through Food
+Description: Welcome to Share Plate, a dynamic Food Sharing Platform developed with the versatile MERN stack. This platform is designed to facilitate the seamless sharing of surplus food within communities.
 
-Live Demo: [Project 2 Demo](https://your-demo-link-2.com)
+Live Demo: [Demo](arsdev-food-share.netlify.app/)
 
-GitHub Repository: [Project 2 Repository](https://github.com/your-username/project-2)
+GitHub Repository: [Repository](https://github.com/ArnabTo/share-plate-client)
 
-### Project Name 3
-Description: Describe the third project, emphasizing any unique aspects or technologies used.
+### TechTrend - Technology and Electronics E-commerce Platform
+Description: Welcome to TechTrend, your premier destination for cutting-edge technology and electronics! This MERN stack-powered E-commerce platform is designed to provide a seamless and efficient shopping experience.
 
-Live Demo: [Project 3 Demo](https://your-demo-link-3.com)
+Live Demo: [Demo](arsdev-techtrend.netlify.app/)
 
-GitHub Repository: [Project 3 Repository](https://github.com/your-username/project-3)
+GitHub Repository: [Repository](https://github.com/ArnabTo/brand-shop-client)
 
 
 # 📈 Current stats

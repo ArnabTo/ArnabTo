@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**ArnabTo/ArnabTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+I am a Passionate MERN stack developer seeking to
+develope scalable web
+applications and contribute to the success
+of an innovative organization
+generate different varient of it
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ArnabTo&theme=ads-juicy-fresh&hide_border=true&border_radius=6&card_width=500)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500)](https://git.io/streak-stats)

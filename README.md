@@ -1,20 +1,20 @@
 
 ![LinkedIn Banner](./images/github-banner.png "GitHub Banner")]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+## Overview
 I am a Passionate MERN stack developer seeking to
 develope scalable web
 applications and contribute to the success
 of an innovative organization
 generate different varient of it
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ArnabTo&theme=ads-juicy-fresh&hide_border=true&border_radius=6&card_width=500)](https://git.io/streak-stats) -->
+## Current Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500)](https://git.io/streak-stats)
+
+# Technologies & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,firebase,js,mongodb,netlify,nodejs,tailwind,bootstrap,vite" />
+  </a>
+</p>

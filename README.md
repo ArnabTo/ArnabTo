@@ -10,7 +10,10 @@ of an innovative organization
 generate different varient of it
 
 ## Current Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500)](https://git.io/streak-stats)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a>
+</p>
+
 
 # Technologies & Tools
 <p align="center">

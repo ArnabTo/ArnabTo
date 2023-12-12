@@ -1,15 +1,11 @@
-![LinkedIn Banner](./images/github-banner.png "GitHub Banner")
+![LinkedIn Banner](./images/github-profile-banner.png "GitHub Banner")
 
 
 <p align='center'>
 
-# Hi 👋, I am Arnab. MERN stack developer 
+# Hi 👋, I am Arnab. 
 
-I am a Junior MERN stack developer with expertise in building dynamic web applications. Proficient in technologies such as React, Express, Node, MongoDB, and Tailwind CSS, I bring a comprehensive skill set to the development landscape.
-
-Driven by a commitment to continuous improvement, I am currently expanding my skill set by delving into advanced technologies like Next.js. This strategic initiative is geared towards enhancing the performance and user experience of my projects, showcasing a proactive approach to staying abreast of industry trends.
-
-As a developer, I am dedicated to leveraging my knowledge to create robust, scalable, and high-performance solutions. My familiarity with the MERN stack, coupled with an ongoing pursuit of learning and mastery, positions me as a dynamic contributor to the field of web development.
+Junior MERN stack developer specializing in dynamic web applications with proficiency in React, Express, Node, MongoDB, and Tailwind CSS. Currently advancing skills with Next.js to optimize performance and user experience. Committed to continuous improvement, I strive to create robust, scalable, and high-performance solutions, showcasing a proactive approach to industry trends.
 </P>
 
 # 🔧 Technologies & Tools
@@ -20,7 +16,9 @@ As a developer, I am dedicated to leveraging my knowledge to create robust, scal
   </a>
 </p>
 
-## 🗂️ Recent Projects
+<a href="#" class="button icon search">Search</a>
+
+# 🗂️ Recent Projects
 
 ### 🚀 Student and Class Management System
 Description:
@@ -47,9 +45,25 @@ GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/brand-shop-clie
 
 # 📈 Current stats
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnabTo&theme=soft-green&hide_border=true&border_radius=6&card_width=500" alt="GitHub Streak" /></a></p>
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnabTo&theme=midnight-purple&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
+></p>
+
+
+
+<p align='center'><a href="https://github.com/anuraghazra">
+  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ArnabTo&theme=midnight-purple&hide_border=true&show_icons=true">
+</a>
+</P>
 
 
 <p align="center"><a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTo&theme=dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTo&theme=dark" alt="GitHub Profile Summary Cards"></a></p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnabTo&theme=midnight_purple" alt="GitHub Profile Summary Cards"></a></p>
+
+
+
+
+
+
+
 

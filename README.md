@@ -16,8 +16,6 @@ Junior MERN stack developer specializing in dynamic web applications with profic
   </a>
 </p>
 
-<a href="#" class="button icon search">Search</a>
-
 # 🗂️ Recent Projects
 
 ### 🚀 Student and Class Management System

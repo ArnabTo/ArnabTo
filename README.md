@@ -16,6 +16,11 @@ Junior MERN stack developer specializing in dynamic web applications with profic
   </a>
 </p>
 
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat-square&logo=linkedin&logoColor=white&logoWidth=40)](https://www.linkedin.com/in/nazmul-hasan-shadin-8b4954155)
+[![Email](https://img.shields.io/badge/Email-YourEmail-blue?style=flat-square&logo=gmail&logoColor=white&logoWidth=20)](mailto:nazmulhasan.shadin3@gmail.com) -->
+
+
 # 🗂️ Recent Projects
 
 ### 🚀 Student and Class Management System
@@ -45,7 +50,7 @@ GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/brand-shop-clie
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ArnabTo&theme=midnight-purple&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
-></p>
+</p>
 
 
 

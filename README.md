@@ -12,7 +12,7 @@ Junior MERN stack developer specializing in dynamic web applications with profic
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,firebase,js,mongodb,netlify,nodejs,tailwind,bootstrap,vite, next-auth" />
+    <img src="https://skillicons.dev/icons?i=react,express,firebase,js,mongodb,netlify,nodejs,tailwind,bootstrap,vite,nextauth,materialui" />
   </a>
 </p>
 

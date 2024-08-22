@@ -12,7 +12,7 @@ Junior MERN stack developer specializing in dynamic web applications with profic
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,firebase,js,mongodb,netlify,nodejs,tailwind,bootstrap,vite,materialui" />
+    <img src="https://skillicons.dev/icons?i=react, express, firebase, js, mongodb, netlify, nodejs, tailwind, bootstrap,vite, materialui, nextjs, figma" />
   </a>
   <img src="./images/logo.png"  style="width: 40px; border-radius: 10px; background-color: #252525; margin-left: 5px"/>
 </p>
@@ -33,7 +33,7 @@ Live Demo: 🔗  [Demo](skill-nest.netlify.app/)
 GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/skill-nest-client)
 
 ### 🚀 Share Plate - Connecting Communities Through Food
-Description: Welcome to Share Plate, a dynamic Food Sharing Platform developed with the versatile MERN stack. This platform is designed to facilitate the seamless sharing of surplus food within communities.
+Description: Welcome to Share Plate, a dynamic food-sharing platform developed with a versatile MERN stack. This platform is designed to facilitate the seamless sharing of surplus food within communities.
 
 Live Demo: 🔗  [Demo](arsdev-food-share.netlify.app/)
 

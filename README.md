@@ -24,6 +24,15 @@ Junior MERN stack developer specializing in dynamic web applications with profic
 
 # 🗂️ Recent Projects
 
+### 🚀 BlogVerse - A Blogging Platform
+Description:
+BlogVerse is your ultimate tool for content creation, offering bloggers the ability to grow their audience through podcasts, sell their work, and with memberships plans.
+
+Live Demo: 🔗  [Demo](https://blog-verse-appwrite.vercel.app/)
+
+GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/blog-app-appwrite)
+
+
 ### 🚀 Student and Class Management System
 Description:
 Welcome to Skill Nest, a cutting-edge Student and Class Management System meticulously crafted with the powerful MERN stack. Designed to revolutionize the educational experience, Skill Nest seamlessly integrates user authentication, course creation, and an intuitive dashboard for a holistic
@@ -38,13 +47,6 @@ Description: Welcome to Share Plate, a dynamic food-sharing platform developed w
 Live Demo: 🔗  [Demo](arsdev-food-share.netlify.app/)
 
 GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/share-plate-client)
-
-### 🚀 TechTrend - Technology and Electronics E-commerce Platform
-Description: Welcome to TechTrend, your premier destination for cutting-edge technology and electronics! This MERN stack-powered E-commerce platform is designed to provide a seamless and efficient shopping experience.
-
-Live Demo: 🔗  [Demo](arsdev-techtrend.netlify.app/)
-
-GitHub Repository: 🔗  [Repository](https://github.com/ArnabTo/brand-shop-client)
 
 
 # 📈 Current stats
